@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserInfo>
+	<Name>Andrei_Baranau</Name>
+	<Age>41</Age>
+	<NumberOfPets>0</NumberOfPets>
+	<EarnFrom>500</EarnFrom>
+	<EarnTo>1670</EarnTo>
+</UserInfo>
+<Favourite>
+	<Film>Самогонщики</Film>
+	<Series>HarryPotter</Series>
+	<Food>Fresh fruit</Food>
+	<Season>Winter</Season>
+	<CountryToVisit>Japan</CountryToVisit>
+</Favourite>
