@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+	<ID>3</ID>
+	<Project>Create bug_report</Project>
+	<Issue Type>Learnig</Issue Type>
+	<Summary>Create bug_report  in xml  format</Summary>
+	<Precondition>GitHub</Precondition>
+  <STR>see file HW2_GIT.txt</STR>
+	<Actual Results>bug_report.xml</Actual Results>
+	<Expected Results>bag_report.xml</Expected Results>
+  <Reporter>AndreiBAranau</Reporter>
+	<Priority>low</Priority>
+  <Severity>low</Severity>
+  <Environment>PC</Environment>
+  <Attachment>HW2_GIT.txt</Attachment>
+</bug_report>
+
+
